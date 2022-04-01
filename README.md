@@ -3,12 +3,13 @@
 
 - 🔭 I’m currently studying computer science in Western Mindanao State University
 - 🌱 I’m currently learning ReactJS, Firebase, Unity & Blender
+- 📫 How to reach me: 
+ - Nice
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: 
+
 <!--
  - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: 
-
