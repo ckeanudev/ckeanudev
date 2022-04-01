@@ -6,6 +6,7 @@
 ### 📫 How to reach me:
 - Gmail: ckeandev@gmail.com
 - Phone: 09552101316
+- Facebook: https://www.facebook.com/ckeanulocs14/
 ### 😄 Pronouns: He/His
 
 
