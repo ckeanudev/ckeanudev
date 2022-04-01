@@ -5,12 +5,15 @@
 ### 🌱 I’m currently learning ReactJS, Firebase, Unity & Blender
 ### 📫 How to reach me:
 - Gmail: ckeandev@gmail.com
-- Phone: 09552101316
+- Phone: 09552101316/09609272738
 - Facebook: https://www.facebook.com/ckeanulocs14/
-### 😄 Pronouns: He/His
+- Instagram: https://www.instagram.com/ckeanuuu/
+- Twitter: https://twitter.com/ckeanuuu
+
 
 
 <!--
+### 😄 Pronouns: He/His
 - ⚡ Fun fact: 
  - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
