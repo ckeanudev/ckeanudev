@@ -1,7 +1,8 @@
 ## Hi there, I'm Ckeanu Richer Locson 👋
 
-
+<!--
 ### 👨‍💻 I’m a computer science student in Western Mindanao State University
+-->
 ### 🌱 I’m currently learning ReactJS, Firebase, Unity & Blender
 ### 📫 How to reach me:
 - Gmail: ckeandev@gmail.com
