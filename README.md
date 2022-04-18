@@ -3,7 +3,7 @@
 <!--
 ### 👨‍💻 I’m a computer science student in Western Mindanao State University
 -->
-### 🌱 I’m currently learning ReactJS, Firebase, Unity & Blender
+### 🌱 I’m currently learning ReactJS, Firebase & Unity
 ### 📫 How to reach me:
 - Gmail: ckeandev@gmail.com
 - Phone: 09552101316 / 09609272738
