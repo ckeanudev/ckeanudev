@@ -7,7 +7,7 @@
 ### 📫 How to reach me:
 - Gmail: ckeandev@gmail.com
 - Phone: 09552101316 / 09609272738
-- Facebook: https://www.facebook.com/ckeanulocs14/
+- Facebook: https://www.facebook.com/Aetherscript/
 - Instagram: https://www.instagram.com/ckeanuuu/
 - Twitter: https://twitter.com/ckeanuuu
 
